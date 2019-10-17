@@ -28,7 +28,7 @@ namespace _20191017
                 }
 
                 Console.Write("猜錯了，再來一次!");
-                   
+                    
             }
 
 
